@@ -1,0 +1,1 @@
+"./main.obj" "./user/config.obj" "./user/oled.obj" "./user/pwm.obj" "./user/test.obj" "./user/xunji.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
